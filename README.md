@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Paul
+- At the moment I cannot checkout my account @pauk2012. So this is new
 - 👀 I’m interested in development education project. 
 - 🌱 I’m currently learning nodejs, python in fullStack
 - 💞️ I’m looking to collaborate on my new project education project
